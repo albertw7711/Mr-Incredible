@@ -9,16 +9,6 @@ This app uses Computer Vision AI to help homeowners scan, value, and protect the
 - RESTful API backend for querying models.
 - Multiple frontend interfaces for internal testing and external presentation.
 
-## Demo Screenshots
-
-Sample output from the application:
-
-![Upload_Image](AutoClaim/assets/upload_img.png)  
-*Dashboard preview*
-
-![Result](AutoClaim/assets/result.png)  
-*Result preview*
-
 ## Tech Stack
 
 - **Frontend:** React.js
